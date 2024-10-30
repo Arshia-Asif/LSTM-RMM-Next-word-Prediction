@@ -1,1 +1,1 @@
-# LSTM-RMM-Next-word-Prediction
+# LSTM-RNN-Next-word-Prediction
